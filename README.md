@@ -4,6 +4,8 @@ This repository contains a few basic examples about working with general purpose
 via `inline assembly`. It shows examples for the deprecated `llvm_asm!`-macro and the **newer** `asm!`-macro [0]. 
 See Code for comments.
 
+This example was tested with Rust 1.54 nightly.
+
 ## Interesting Links
 [0] https://blog.rust-lang.org/inside-rust/2020/06/08/new-inline-asm.html \
 [1] https://en.wikipedia.org/wiki/X86_assembly_language#Syntax \
